@@ -33,3 +33,5 @@ One other thing I learned was that with a course project like this, I had much m
 ### Processing Notes
 •	There are two CSV files, “CountyPopulation.csv” and “StatePopulation.csv” in the Data folder that are appended to a data frame at the end of the script. These files contain state- and county-level population and will be used to calculate statistics (not a part of final project).
 •	In the report statements printed to the console, there is a statement “There are 0 (0.0%) mid-wives”. This specialty type doesn’t occur frequently so there are truly none in the sample set.
+
+![alt text](https://static.thenounproject.com/png/1390001-200.png)
